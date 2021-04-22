@@ -15,7 +15,7 @@
 <div class="navbar">
     <li><button><a href="login.jsp">Login</a></button></li>
     <li><button><a href="signup.jsp"> Signup</a></button></li>
-    <li ><button><a href="test.jsp">test</a></button></li>
+    
 </div>
 <div class="main">
 
